@@ -1,0 +1,14 @@
+C:\Users\PaulsB\Documents\FourDigitGuessingGame\bin\Debug\net7.0\FourDigitGuessingGame.exe
+C:\Users\PaulsB\Documents\FourDigitGuessingGame\bin\Debug\net7.0\FourDigitGuessingGame.deps.json
+C:\Users\PaulsB\Documents\FourDigitGuessingGame\bin\Debug\net7.0\FourDigitGuessingGame.runtimeconfig.json
+C:\Users\PaulsB\Documents\FourDigitGuessingGame\bin\Debug\net7.0\FourDigitGuessingGame.dll
+C:\Users\PaulsB\Documents\FourDigitGuessingGame\bin\Debug\net7.0\FourDigitGuessingGame.pdb
+C:\Users\PaulsB\Documents\FourDigitGuessingGame\obj\Debug\net7.0\FourDigitGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PaulsB\Documents\FourDigitGuessingGame\obj\Debug\net7.0\FourDigitGuessingGame.AssemblyInfoInputs.cache
+C:\Users\PaulsB\Documents\FourDigitGuessingGame\obj\Debug\net7.0\FourDigitGuessingGame.AssemblyInfo.cs
+C:\Users\PaulsB\Documents\FourDigitGuessingGame\obj\Debug\net7.0\FourDigitGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\PaulsB\Documents\FourDigitGuessingGame\obj\Debug\net7.0\FourDigitGuessingGame.dll
+C:\Users\PaulsB\Documents\FourDigitGuessingGame\obj\Debug\net7.0\refint\FourDigitGuessingGame.dll
+C:\Users\PaulsB\Documents\FourDigitGuessingGame\obj\Debug\net7.0\FourDigitGuessingGame.pdb
+C:\Users\PaulsB\Documents\FourDigitGuessingGame\obj\Debug\net7.0\FourDigitGuessingGame.genruntimeconfig.cache
+C:\Users\PaulsB\Documents\FourDigitGuessingGame\obj\Debug\net7.0\ref\FourDigitGuessingGame.dll
